@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/dmportella/qilbot.png?label=ready&title=Ready)](https://waffle.io/dmportella/qilbot)
 # Qilbot
 
 Qilbot is a discord bot written in `GOLANG`.
